@@ -1,0 +1,1 @@
+Exercises from Launch School's Javascript Small Problem's. This exercise set focuses on easy problems that range from basic iteration, to more complex problems involving objects, strings, etc.
